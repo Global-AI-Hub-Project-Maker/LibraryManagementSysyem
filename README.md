@@ -236,9 +236,9 @@ SOFTWARE.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@senabibi](https://www.linkedin.com/in/nursena-bitirgen-5743341b9/) - bitirgensena@gmail.com
+Your Name - [@caglagok](https://www.linkedin.com/in/caglagok/) - caglagok369@gmail.com
 
-Project Link: [https://github.com/senabibi/LibraryManagementSysyem](https://github.com/senabibi/LibraryManagementSysyem/tree/main)
+Project Link: [https://github.com/Global-AI-Hub-Project-Maker/LibraryManagementSysyem](https://github.com/Global-AI-Hub-Project-Maker/LibraryManagementSysyem)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
